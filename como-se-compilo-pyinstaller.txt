@@ -1,0 +1,15 @@
+Esta es la sintaxis que se uso para compilar y funcion! 25/02/2021
+
+para crear paquete ejecutable en 3.9
+
+pyinstaller ./download_youtubeV4.py --add-binary "./chromedriver88.exe;./" --add-data "./youtube_01.jpg;./"
+
+
+para crear paquete ejecutable en 3.8
+
+C:\Python38-32\Scripts\pyinstaller.exe ./download_youtubeV4.py --add-binary "./chromedriver88.exe;./" --add-data "./youtube_01.jpg;./"
+
+
+Falla al correr en windows 7 64b
+
+api-ms-win-core-path-l1-1-0.dll is missing windows 7

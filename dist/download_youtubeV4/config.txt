@@ -1,0 +1,10 @@
+RUTA=downloads
+POSICION=+0+0
+HIJA=+0+0
+RESOLUCION=alta
+
+# Comentarios de uso
+# RUTA =  ubicacion donde sera guardado el video descargado youtube
+# POSICION = posicion donde se ubicara la ventana
+# HIJA = Posicion donde esta la ventana hija
+# RESOLUCION = alta / baja  <--- son los dos modo de resolucion mp4 para modo automatico 

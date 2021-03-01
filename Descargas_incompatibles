@@ -1,0 +1,18 @@
+Links de videos que no se pudieron bajar ver 10.0.0
+
+https://www.youtube.com/watch?v=El7GVPUl-r0
+
+https://www.youtube.com/watch?v=2y1TZXc5DiY
+
+
+Posible solucion
+
+https://github.com/nficano/pytube/issues/877
+
+actualizar a la version 10.1.0
+
+Sintaxis para Instalacion directamente desde la fuente
+
+python -m pip install git+https://github.com/nficano/pytube
+
+
